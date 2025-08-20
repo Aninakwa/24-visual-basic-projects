@@ -1,0 +1,12 @@
+C:\programming\Visual basic\how to 2\how to 2\bin\Debug\how to 2.exe.config
+C:\programming\Visual basic\how to 2\how to 2\bin\Debug\how to 2.exe
+C:\programming\Visual basic\how to 2\how to 2\bin\Debug\how to 2.pdb
+C:\programming\Visual basic\how to 2\how to 2\bin\Debug\how to 2.xml
+C:\programming\Visual basic\how to 2\how to 2\obj\Debug\how to 2.vbproj.AssemblyReference.cache
+C:\programming\Visual basic\how to 2\how to 2\obj\Debug\how_to_2.Form1.resources
+C:\programming\Visual basic\how to 2\how to 2\obj\Debug\how_to_2.Resources.resources
+C:\programming\Visual basic\how to 2\how to 2\obj\Debug\how to 2.vbproj.GenerateResource.cache
+C:\programming\Visual basic\how to 2\how to 2\obj\Debug\how to 2.vbproj.CoreCompileInputs.cache
+C:\programming\Visual basic\how to 2\how to 2\obj\Debug\how to 2.exe
+C:\programming\Visual basic\how to 2\how to 2\obj\Debug\how to 2.xml
+C:\programming\Visual basic\how to 2\how to 2\obj\Debug\how to 2.pdb

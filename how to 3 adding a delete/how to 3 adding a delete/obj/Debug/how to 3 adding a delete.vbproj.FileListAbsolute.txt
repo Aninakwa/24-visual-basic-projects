@@ -1,0 +1,12 @@
+C:\programming\Visual basic\how to 3 adding a delete\how to 3 adding a delete\bin\Debug\how to 3 adding a delete.exe.config
+C:\programming\Visual basic\how to 3 adding a delete\how to 3 adding a delete\bin\Debug\how to 3 adding a delete.exe
+C:\programming\Visual basic\how to 3 adding a delete\how to 3 adding a delete\bin\Debug\how to 3 adding a delete.pdb
+C:\programming\Visual basic\how to 3 adding a delete\how to 3 adding a delete\bin\Debug\how to 3 adding a delete.xml
+C:\programming\Visual basic\how to 3 adding a delete\how to 3 adding a delete\obj\Debug\how to 3 adding a delete.vbproj.AssemblyReference.cache
+C:\programming\Visual basic\how to 3 adding a delete\how to 3 adding a delete\obj\Debug\how_to_3_adding_a_delete.Form1.resources
+C:\programming\Visual basic\how to 3 adding a delete\how to 3 adding a delete\obj\Debug\how_to_3_adding_a_delete.Resources.resources
+C:\programming\Visual basic\how to 3 adding a delete\how to 3 adding a delete\obj\Debug\how to 3 adding a delete.vbproj.GenerateResource.cache
+C:\programming\Visual basic\how to 3 adding a delete\how to 3 adding a delete\obj\Debug\how to 3 adding a delete.vbproj.CoreCompileInputs.cache
+C:\programming\Visual basic\how to 3 adding a delete\how to 3 adding a delete\obj\Debug\how to 3 adding a delete.exe
+C:\programming\Visual basic\how to 3 adding a delete\how to 3 adding a delete\obj\Debug\how to 3 adding a delete.xml
+C:\programming\Visual basic\how to 3 adding a delete\how to 3 adding a delete\obj\Debug\how to 3 adding a delete.pdb
