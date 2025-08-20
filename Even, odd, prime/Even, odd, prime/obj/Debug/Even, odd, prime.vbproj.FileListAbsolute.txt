@@ -1,0 +1,12 @@
+C:\programming\Visual basic\Even, odd, prime\Even, odd, prime\bin\Debug\Even, odd, prime.exe.config
+C:\programming\Visual basic\Even, odd, prime\Even, odd, prime\bin\Debug\Even, odd, prime.exe
+C:\programming\Visual basic\Even, odd, prime\Even, odd, prime\bin\Debug\Even, odd, prime.pdb
+C:\programming\Visual basic\Even, odd, prime\Even, odd, prime\bin\Debug\Even, odd, prime.xml
+C:\programming\Visual basic\Even, odd, prime\Even, odd, prime\obj\Debug\Even, odd, prime.vbproj.AssemblyReference.cache
+C:\programming\Visual basic\Even, odd, prime\Even, odd, prime\obj\Debug\Even__odd__prime.Form1.resources
+C:\programming\Visual basic\Even, odd, prime\Even, odd, prime\obj\Debug\Even__odd__prime.Resources.resources
+C:\programming\Visual basic\Even, odd, prime\Even, odd, prime\obj\Debug\Even, odd, prime.vbproj.GenerateResource.cache
+C:\programming\Visual basic\Even, odd, prime\Even, odd, prime\obj\Debug\Even, odd, prime.vbproj.CoreCompileInputs.cache
+C:\programming\Visual basic\Even, odd, prime\Even, odd, prime\obj\Debug\Even, odd, prime.exe
+C:\programming\Visual basic\Even, odd, prime\Even, odd, prime\obj\Debug\Even, odd, prime.xml
+C:\programming\Visual basic\Even, odd, prime\Even, odd, prime\obj\Debug\Even, odd, prime.pdb

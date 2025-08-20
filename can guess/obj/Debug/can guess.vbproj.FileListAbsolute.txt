@@ -1,0 +1,5 @@
+C:\programming\Visual basic\can guess\obj\Debug\can guess.vbproj.AssemblyReference.cache
+C:\programming\Visual basic\can guess\obj\Debug\can_guess.SimpleGuessingGame.resources
+C:\programming\Visual basic\can guess\obj\Debug\can_guess.Resources.resources
+C:\programming\Visual basic\can guess\obj\Debug\can guess.vbproj.GenerateResource.cache
+C:\programming\Visual basic\can guess\obj\Debug\can guess.vbproj.CoreCompileInputs.cache
